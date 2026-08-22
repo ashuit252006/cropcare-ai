@@ -1,0 +1,10 @@
+@"
+.env
+firebase-key.json
+__pycache__/
+*.pyc
+venv/
+.venv/
+uploads/
+instance/
+"@ | Set-Content .gitignore
